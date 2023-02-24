@@ -50,3 +50,4 @@ export const EXCHANGE_CONTRACT_ADDRESS = "ADDRESS-EXCHANGE-CONTRACT";
 在my-app下面创建 文件夹utils  并在里面创建四个文件 addLiquidity.js, removeLiquidity.js, getAmounts.js, and swap.js
 
 修改文件 pages/index.js
+运行 npm run dev
